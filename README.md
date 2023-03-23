@@ -24,7 +24,7 @@
   
    <div> I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Canada. </Div>
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I’m working as a Software Engineer and contributing to the frontend and backend of building web applications.
 
   - :seedling: I’m currently deepening my knowledge of typescript and jest.
 
