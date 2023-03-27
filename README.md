@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ouassim-b-08670278/">
+    <a href="https://www.linkedin.com/in/ouassimbelhaj/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"/>
     </a>
   </div>
