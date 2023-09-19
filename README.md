@@ -26,7 +26,7 @@
 
   - :telescope: I’m working as a Software Engineer and contributing to the frontend and backend of building web applications.
 
-  - :seedling: I’m currently deepening my knowledge of typescript and jest.
+  - :seedling: I’m currently deepening my knowledge of React Native and Stripe API.
 
   - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
