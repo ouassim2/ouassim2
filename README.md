@@ -30,12 +30,12 @@
 
   - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-  - :mailbox: How to reach me: bel.ouassim@gmail.com
+  - 📫 How to reach me: bel.ouassim@gmail.com
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -58,9 +58,9 @@
   
   ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
-- :star: CodeWars:
+- ⭐ CodeWars:
 <img src="https://www.codewars.com/users/oua2sim/badges/large" />
 
 - :octocat: Github:
